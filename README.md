@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Tecnologias que utilizo:
+### 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" title="C#" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Sobre mim:
+### Sobre mim:
 
 Tenho conhecimento aplicado em Clean Architecture, CQRS, Repository Pattern, Fluent Validation, Blazor, MVC. 
 
@@ -38,7 +38,7 @@ Ao longo da minha jornada, desenvolvi diversos projetos práticos que simulam de
 ---
 
 
-### 📊 GitHub Status:
+### 
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gi0&layout=compact&theme=github_dark" />
