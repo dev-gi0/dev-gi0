@@ -1,6 +1,6 @@
 <h1 align="center">Giovani</h1>
 
-<p align="center"> Desenvolvedor .NET | Full Stack Developer</p>
+<p align="center"> Desenvolvedor Full Stack .NET </p>
 
 
 
